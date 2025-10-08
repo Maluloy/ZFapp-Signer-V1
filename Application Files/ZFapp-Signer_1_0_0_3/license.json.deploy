@@ -1,0 +1,7 @@
+{
+  "clientId": "MAX-SIGNER",               
+  "issuedAt": "2025-08-02T00:00:00Z",      
+  "expiresAt": "2025-12-31T00:00:00Z",     
+  "allowedUsers": ["usuario1","usuario2"] 
+}
+	
